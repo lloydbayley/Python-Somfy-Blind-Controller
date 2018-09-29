@@ -3,6 +3,7 @@ import RPi.GPIO as GPIO
 import sys
 import os
 
+# You may have to create the channels.txt file and need to change the directory that it is in to suit your needs.
 
 # Channel Information for my house
 
